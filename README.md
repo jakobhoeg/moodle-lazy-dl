@@ -8,7 +8,7 @@ Works on **Windows**, **Mac** and **Linux**.
 https://github.com/jakobhoeg/moodle-lazy-dl/assets/114422072/9c3a826a-bf3c-4c46-9f6c-86c66869b4ed
 
 ## Requisites
-You must have installed [Node.js](https://nodejs.org/en/download) to run the bot. The installation also includes npm (node package manager).
+You must have installed [Node.js](https://nodejs.org/en/download) to run the bot. The installation includes npm (node package manager), which is also required.
 
 ## Get started
 Follow these steps:
