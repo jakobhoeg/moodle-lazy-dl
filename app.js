@@ -22,6 +22,14 @@ const listItemText = "I gang";
     await page.click("#loginbtn");
   }
 
+  const langAttribute = await page.$eval('html', (html) => html.lang);
+   // Check if the language is not Danish, and change it to Danish.
+  if (langAttribute && langAttribute.toLowerCase() !== 'da') {
+    await page.click('#user-menu-toggle');
+    await page.click('a:has-text("Language")');
+    await page.click('a:has-text("Dansk")');
+  }
+
   // Clicks the dropdown with what courses to show and selects the listItemText.
   await page.waitForSelector("#groupingdropdown");
   await page.click("#groupingdropdown");
