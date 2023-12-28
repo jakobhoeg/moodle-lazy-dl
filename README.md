@@ -1,5 +1,5 @@
 # moodle-lazy-dl
-An extremely simple bot that **downloads** all files from all your assigned Moodle courses, so you don't have to *manually* do it yourself :yawning_face:
+An extremely simple bot that **downloads** all files from all your assigned _Moodle courses_, so you don't have to *manually* do it yourself :yawning_face:
 
 Works on **Windows**, **Mac** and **Linux**.
 
