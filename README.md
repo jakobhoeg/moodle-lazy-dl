@@ -12,7 +12,7 @@ Follow these steps:
 1. **Clone the repository** or **download the zip** and unzip it.
 2. Open the folder in a command prompt.
 3. Install dependencies by typing ```npm install```
-4. Create a **.env** file in the root of the project with the same variables that are in **.env.example** and edit your username and password.
+4. Create a **.env** file in the root of the project with the same variables that are in **.env.example** and make sure to edit your _username_ and _password_.
 5. _This step is not required, but if you want to download **ALL** your courses (from ALL semesters) you have to change the variable ```listItemText``` in the **app.js** file from ```I gang``` to ```Alle```. By default it only downloads the courses that are In Progress._
 6. Run the program by typing ```node app.js```
 
