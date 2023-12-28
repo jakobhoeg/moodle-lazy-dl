@@ -1,0 +1,16 @@
+{
+  "name": "moodle-lazy-dl",
+  "version": "1.0.0",
+  "description": "A bot that downloads all files from all your assigned courses on moodle.",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Jakob Hoeg Mørk",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
