@@ -1,11 +1,14 @@
 # moodle-lazy-dl
-An extremely simple bot that **downloads** all files from all your assigned _Moodle courses_, so you don't have to *manually* do it yourself :yawning_face:
+A bot that **downloads** all files from all your assigned _Moodle courses_, so you don't *manually* have to do it yourself :yawning_face:
 
 Works on **Windows**, **Mac** and **Linux**.
 
 > As of now, this is created and tested only for EASV - Erhvervsakademi Sydvest. Feel free to test it out for any other universities that use Moodle, and contribute to the repo :)
 
 https://github.com/jakobhoeg/moodle-lazy-dl/assets/114422072/9c3a826a-bf3c-4c46-9f6c-86c66869b4ed
+
+## Requisites
+You must have installed [Node.js](https://nodejs.org/en/download) to run the bot. The installation includes npm (node package manager), which is also required.
 
 ## Get started
 Follow these steps:
@@ -18,4 +21,4 @@ Follow these steps:
 
 > Occasionally, playwright dependency doesn't install correctly. If that happens, you might have to install it manually with ```npx playwright install``` and then you should be able to run ```node app.js```.
 
-Default folder path for downloaded files are ```Users\username\moodle```
+Default folder path for downloaded files are ```C:\Users\<username>\moodle```
