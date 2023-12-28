@@ -21,4 +21,4 @@ Follow these steps:
 
 > Occasionally, playwright dependency doesn't install correctly. If that happens, you might have to install it manually with ```npx playwright install``` and then you should be able to run ```node app.js```.
 
-Default folder path for downloaded files are ```Users\username\moodle```
+Default folder path for downloaded files are ```C:\Users\<username>\moodle```
