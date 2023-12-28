@@ -28,6 +28,8 @@ const listItemText = "I gang";
     await page.click('#user-menu-toggle');
     await page.click('a:has-text("Language")');
     await page.click('a:has-text("Dansk")');
+    await page.reload();
+    await page.waitForTimeout(500);
   }
 
   // Clicks the dropdown with what courses to show and selects the listItemText.
