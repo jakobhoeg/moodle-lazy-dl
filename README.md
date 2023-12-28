@@ -9,7 +9,7 @@ https://github.com/jakobhoeg/moodle-lazy-dl/assets/114422072/9c3a826a-bf3c-4c46-
 
 ## Get started
 Follow these steps:
-1. **Clone the repository** or **download the zip** and unzip it.
+1. **Clone the repository** or **download the zip** and unzip it to a folder.
 2. Open the folder in a command prompt.
 3. Install dependencies by typing ```npm install```
 4. Create a **.env** file in the root of the project with the same variables that are in **.env.example** and make sure to edit your _username_ and _password_.
