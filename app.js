@@ -114,8 +114,8 @@ const listItemText = "I gang";
 
         console.log("Saved course to: " + folderPath);
       }
-      console.log("Done. All courses downloaded.");
     }
+    console.log("Done. All courses downloaded.");
   } catch (error) {
     console.log(error);
   }
