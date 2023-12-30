@@ -49,7 +49,7 @@ MOODLE_PASSWORD="your_password"
 7. _This step is not required, but if you want to download **ALL** your courses (from ALL semesters) and not only the ones from your current semester, you have to change a variable in the **app.js** file:_
 
 ```
-// Change this variable to "Alle":
+// Change the variable below to "Alle":
 const listItemText = "I gang";
 ```
 
