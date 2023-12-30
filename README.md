@@ -53,7 +53,7 @@ MOODLE_PASSWORD="your_password"
 const listItemText = "I gang";
 ```
 
-**8. Run the program by typing**
+**8. Run the program:**
 
 ```
 node app.js
