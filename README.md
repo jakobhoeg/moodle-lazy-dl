@@ -1,7 +1,7 @@
 # moodle-lazy-dl
 A bot that **downloads** all files from all your assigned _Moodle courses_, so you don't *manually* have to do it yourself :yawning_face:
 
-Works on **Windows**, **Mac** and **Linux**.
+Works on **Windows**, **Mac** and **Linux Desktop**.
 
 > As of now, this is created and tested only for EASV - Erhvervsakademi Sydvest. Feel free to test it out for any other universities that use Moodle, and contribute to the repo :)
 
