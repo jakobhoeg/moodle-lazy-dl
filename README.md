@@ -56,6 +56,10 @@ const listItemText = "I gang";
 **8. Run the program:**
 
 ```
+node .
+```
+Or:
+```
 node app.js
 ```
 
